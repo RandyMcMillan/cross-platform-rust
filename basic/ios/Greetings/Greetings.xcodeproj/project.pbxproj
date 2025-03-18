@@ -180,7 +180,7 @@
 				TargetAttributes = {
 					7B668C4A1F46E022001A9945 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 8BHJ767F4Y;
+						DevelopmentTeam = M684FYCYG6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -198,6 +198,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -393,7 +394,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8BHJ767F4Y;
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = Greetings/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../../cargo/target/universal/release/**";
@@ -409,7 +410,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8BHJ767F4Y;
+				DEVELOPMENT_TEAM = M684FYCYG6;
 				INFOPLIST_FILE = Greetings/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)/../../cargo/target/universal/release/**";
